@@ -1,0 +1,39 @@
+/* Light Gradient Background */
+body {
+    background: linear-gradient(to right, #324551, #c6e2ff);
+}
+
+/* Change Navbar to Green */
+.navbar {
+    background-color: #f38e8ee7 !important; /* Green */
+}
+
+.navbar a {
+    color: #fffffc !important;
+}
+
+ul {
+    padding-left: 1.5rem;
+  }
+
+h1 {
+    text-align:center;
+}
+
+h5 {
+    text-align:center;
+}
+
+img {
+    margin-left: 17.2rem;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+footer {
+    visibility: hidden;
+}
+header {
+    visibility: hidden;
+}
