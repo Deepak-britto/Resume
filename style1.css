@@ -1,0 +1,81 @@
+
+/* Style for Summary Section */
+.custom-summary {
+    background-color: #3677a2 !important; /* Dark Teal */
+    color: white !important; /* White text */
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 16px;
+    line-height: 1.6;
+    font-weight: normal;
+}
+
+/* Right-aligned Download Resume button */
+.download-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #17668B;  /* Navbar color */
+    color: white !important;  /* Force white text */
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Ensure white text on hover */
+.download-btn:hover {
+    background-color: #144d6f; /* Slightly darker on hover */
+    color: white !important;  /* Keep white text */
+}
+
+.download-btn:hover {
+    background-color: #144d6f; /* Slightly darker on hover */
+}
+
+
+/* Custom GPA Style */
+.gpa-text {
+    font-size: 10px;
+    font-weight: bold;
+    color: #17668B;  /* Dark Teal */
+    background-color: #F0F8FF;  /* Light Blue Background */
+    padding: 2px 5px;
+    border-radius: 5px;
+    display: inline-block;
+}
+/* Change Navbar to Green */
+.navbar {
+    background-color: #17668bd9 !important; /* Green */
+}
+
+.navbar a {
+    color: #f9f9f4 !important;
+}
+
+ul {
+    padding-left: 1.5rem;
+  }
+
+h1 {
+    text-align:center;
+}
+
+h5 {
+    text-align:center;
+}
+
+img {
+    margin-left: 17.2rem;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+footer {
+    visibility: hidden;
+}
+header {
+    visibility: hidden;
+}
